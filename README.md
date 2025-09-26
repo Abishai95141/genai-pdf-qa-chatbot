@@ -5,6 +5,8 @@ To design and implement a question-answering chatbot capable of processing and e
 
 ### PROBLEM STATEMENT:
 
+Searching for information in long PDF documents is time-consuming and inefficient. Users often need quick, precise answers without manually scanning hundreds of pages. This project solves that problem by combining PDF text extraction, chunking, embeddings, and retrieval-augmented generation (RAG) with Google Gemini to enable a chatbot that can answer user questions directly from the PDF content.
+
 ### DESIGN STEPS:
 
 #### STEP 1:
